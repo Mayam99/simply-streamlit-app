@@ -1,1 +1,1 @@
-# simply-streamlit-app
+# simply-streamlit
